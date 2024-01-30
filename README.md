@@ -29,6 +29,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansana12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansana12" /></a></p><br><br>
 
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=kusal-tharindu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansana12&show_icons=true&locale=en&layout=compact" alt="hansana12" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansana12&show_icons=true&locale=en" alt="hansana12" /></p>
