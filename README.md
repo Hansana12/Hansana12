@@ -16,7 +16,7 @@
 - 📫 How to reach me **hansana.m98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/hansana12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hansana12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/malshi hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malshi hansana" height="30" width="40" /></a>
 <a href="https://fb.com/malshi hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malshi hansana" height="30" width="40" /></a>
