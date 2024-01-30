@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansana12&show_icons=true&locale=en&layout=compact" alt="hansana12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansana12&show_icons=true&locale=en" alt="hansana12" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansana12&show_icons=true&locale=en" alt="hansana12" /></p>
