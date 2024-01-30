@@ -37,7 +37,7 @@
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=kusal-tharindu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 💰 You can help me by Donating :</h3>
+# 💰 You can help me by Donating :
 
 <p><a href="https://www.buymeacoffee.com/hansana12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansana12" /></a></p><br><br>
 
