@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malshi Hansana</h1>
 <h3 align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansana12&label=Profile%20views&color=0e75b6&style=flat" alt="hansana12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hansana12&label=Profile%20views&color=0e75b6&style=flat" alt="hansana12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansana12" alt="hansana12" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansana12" alt="hansana12" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
